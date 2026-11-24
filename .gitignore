@@ -2,3 +2,8 @@
 __pycache__/
 .streamlit/secrets.toml
 .env
+# Local lead database
+siteora_leads.db*
+# Local application backups
+app_backup*.py
+app_before_*.py
